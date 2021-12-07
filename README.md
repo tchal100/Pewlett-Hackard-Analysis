@@ -3,6 +3,9 @@
 After assisting Bobby and his manager with creating a number of data bases, we were asked to help Bobby's manager prepare for the
 "silver tsunami" within in his department. Bobby's manager will be looking to use this data to manage his growth for several years.
 
+
+![](EmpDB.png.png)
+
 ## Results:
 We built several data bases which gave us a clearer picture of Bobby's in coming "Silver Tsunami". For example, in 1985 there were 48 Engineer's and Senior Engineer's
 who reitred. If you fast forward to 2002 we see a staggering amount of 9906 engineer's and Senior engineer's retiring. Bobby's insight to prepare was corect. 
@@ -30,6 +33,10 @@ Another finding in our data showed not only were the individuals who had worked 
 ## 4. Longer tenurship
 We, also found that although there a "Silver Tsunami" on the way the average individual worked at the company for about 5  to 17 years. Because of that, we believe that in order 
 to curb future Tsunamies mentorship programs would be a part of the culture from day one. 
+
+
+
+![](Query.png)
 
 
 ## Summary:
